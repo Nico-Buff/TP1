@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+EncoreJecrisaLalalla Hello J'ecris dans un fichier texte c'est stylé
+=======
+encoreaLalalla Hello J'ecris dans un fichier texte c'est stylé
+>>>>>>> 9d1b285 (DoneFeature2)
+
+Hello J'ecris dans un fichier texte c'est stylé, je continue
+
+
